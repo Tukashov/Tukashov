@@ -13,3 +13,5 @@
 [![whatsapp](https://img.shields.io/badge/-whatsapp-000?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
 
 ![Erbol GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukashov&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukashov&layout=compact)](https://github.com/Tukashov)
