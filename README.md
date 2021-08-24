@@ -15,17 +15,15 @@
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
 
 ### **Contact Me**
-[![instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/e1boltukashov/?hl=ru)
-[![twitter](https://img.shields.io/badge/-twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/tukashov)
-[![telegram](https://img.shields.io/badge/-telegram-000?style=for-the-badge&logo=telegram)](https://t.me/erbolkk)
-[![whatsapp](https://img.shields.io/badge/-whatsapp-000?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
-
+[<img width="30px" src="assets/twitter.png">](https://twitter.com/tukashov)
+[<img width="30px" src="assets/whatsapp.png">](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
+[<img width="30px" src="assets/telegram.png">](https://t.me/erbolkk)
+[<img width="30px" src="assets/instagram.png">](https://www.instagram.com/e1boltukashov/?hl=ru)
 <hr>
 
 <details>
 <summary><b>👨‍💻 Statistics</b></summary>
 
 ![Erbol GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukashov&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukashov&layout=compact)](https://github.com/Tukashov)
 </details>
