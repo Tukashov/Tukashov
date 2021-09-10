@@ -1,8 +1,8 @@
 [![Header](https://github.com/Tukashov/Tukashov/blob/main/assets/header.gif)](https://quark-mars-f7b.notion.site/s-cf335add99894d99aefce0d848f12aa4)
 
-### Hi there, I'm [Erbol!](https://github.com/Tukashov) 👋
+### Hi there, I'm [Erbol!](https://github.com/Tukashov) <img width="25" src="assets/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=Tukashov)
-
+<img width="30" src="assets/star.gif">
 <hr>
 
 ### Languages ​​and Tools
@@ -19,6 +19,7 @@
 [<img width="50px" src="assets/whatsapp.png">](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
 [<img width="50px" src="assets/telegram.png">](https://t.me/erbolkk)
 [<img width="50px" src="assets/instagram.png">](https://www.instagram.com/e1boltukashov/?hl=ru)
+
 <hr>
 
 <details>
