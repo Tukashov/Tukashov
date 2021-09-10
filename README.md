@@ -2,6 +2,8 @@
 
 ### Hi there, I'm [Erbol!](https://github.com/Tukashov) <img width="25" src="assets/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=Tukashov)
+<h1 style="color: #0B0C10;>______________________________</h1>
+
 <img width="50" src="assets/star.gif">
 <hr>
 
