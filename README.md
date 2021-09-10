@@ -1,8 +1,7 @@
 [![Header](https://github.com/Tukashov/Tukashov/blob/main/assets/header.gif)](https://quark-mars-f7b.notion.site/s-cf335add99894d99aefce0d848f12aa4)
 
 ### Hi there, I'm [Erbol!](https://github.com/Tukashov) <img width="25" src="assets/Hi.gif">
-![](https://komarev.com/ghpvc/?username=Tukashov) <h6 style="color: #0B0C10;">__________________________________________________________</h6>
-<img width="50" src="assets/star.gif">
+![](https://komarev.com/ghpvc/?username=Tukashov) <img width="60" src="assets/star.gif">
 <hr>
 
 ### Languages ​​and Tools
