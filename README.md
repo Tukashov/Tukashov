@@ -2,7 +2,7 @@
 
 ### Hi there, I'm [Erbol!](https://github.com/Tukashov) <img width="25" src="assets/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=Tukashov)
-<img width="30" src="assets/star.gif">
+<img width="50" src="assets/star.gif">
 <hr>
 
 ### Languages ​​and Tools
