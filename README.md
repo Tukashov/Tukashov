@@ -18,6 +18,7 @@
 [<img width="50px" src="assets/whatsapp.png">](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
 [<img width="50px" src="assets/telegram.png">](https://t.me/erbolkk)
 [<img width="50px" src="assets/instagram.png">](https://www.instagram.com/e1boltukashov/?hl=ru)
+[<img width="50px" src="assets/linkedin.png">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
 
 <hr>
 
