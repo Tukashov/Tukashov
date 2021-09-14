@@ -20,6 +20,8 @@
 [<img width="50px" src="assets/instagram.png">](https://www.instagram.com/e1boltukashov/?hl=ru)
 [<img width="50px" src="assets/linkedin.png">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
 
+[<img width="200px" align="right" src="assets/Hello.gif">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
+
 <hr>
 
 <details>
