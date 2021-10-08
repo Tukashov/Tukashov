@@ -1,4 +1,4 @@
-[![Header](https://github.com/Tukashov/Tukashov/blob/main/assets/header.gif)](https://quark-mars-f7b.notion.site/s-cf335add99894d99aefce0d848f12aa4)
+![Header](https://github.com/Tukashov/Tukashov/blob/main/assets/header.gif)
 
 ## **Hi there, I'm [Erbol!](https://github.com/Tukashov)** <img width="25" src="assets/Hi.gif">
 ![](https://komarev.com/ghpvc/?username=Tukashov)
