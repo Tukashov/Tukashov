@@ -23,6 +23,8 @@
 
 <hr>
 
+### **Spotify Playing**
+
 [![Spotify](https://novatorem-tukashov.vercel.app/api/spotify)](https://open.spotify.com/user/rs1dpezl8oxn54qthqbz9oofe)
 
 
