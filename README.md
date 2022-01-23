@@ -14,7 +14,7 @@
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
 [<img width="180px" align="right" src="assets/Hello.gif">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
 
-### **Contact Me**
+### **Contact Me 📲**
 [<img width="50px" src="assets/twitter.png">](https://twitter.com/tukashov)
 [<img width="50px" src="assets/whatsapp.png">](https://api.whatsapp.com/send/?phone=996700819482&text&app_absent=0)
 [<img width="50px" src="assets/telegram.png">](https://t.me/erbolkk)
@@ -23,7 +23,7 @@
 
 <hr>
 
-### **Spotify Playing**
+### **Spotify Playing 🎧**
 
 [![Spotify](https://novatorem-tukashov.vercel.app/api/spotify)](https://open.spotify.com/user/rs1dpezl8oxn54qthqbz9oofe)
 
