@@ -26,6 +26,5 @@
 <details>
 <summary><b>👨‍💻 Statistics</b></summary>
 
-![Erbol GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukashov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukashov&layout=compact)](https://github.com/Tukashov)
+![Erbol GitHub stats](https://github-readme-stats.vercel.app/api?username=Tukashov&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukashov&layout=compact)](https://github.com/Tukashov)
 </details>
