@@ -12,7 +12,6 @@
 ![VScode](https://img.shields.io/badge/-VScode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![git](https://img.shields.io/badge/-git-000?style=for-the-badge&logo=git)
 ![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
-[<img width="180px" align="right" src="assets/Hello.gif">](https://www.linkedin.com/in/erbol-tukashov-630607220/)
 
 ### **Contact Me 📲**
 [<img width="50px" src="assets/twitter.png">](https://twitter.com/tukashov)
